@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash -x
 
 export CI=true
 export CODEBUILD=true
